@@ -2,6 +2,15 @@
 soldeerprojectje van Peter van PXL-Green&amp;Tech
 
 ## PROGRESS
+## 3 mei 2023
+
+Naar de makerspace gegaan om met Tom te praten over mogelijkheden van casing maken, info gekregen over:
+
+* makercase.com voor een box te maken
+
+* inkscape voor gaten enzo te tekenen op de box
+
+
 ## 12 maart 2023
 
 Al de verschillende circuits van elkaar gescheiden (20stuks) + nog eens allemaal getest.
