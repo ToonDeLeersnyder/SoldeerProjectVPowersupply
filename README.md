@@ -2,6 +2,15 @@
 soldeerprojectje van Peter van PXL-Green&amp;Tech
 
 ## PROGRESS
+
+## 5 mei 2023
+
+Ik had thuis een casing gemaakt via de programmas die op 3 mei waren besproken.
+
+Ben naar de makerspace gegaan en heb een casing laten lasercutten en wacht op een antwoord of de case goed is of niet.
+
+[FOTO volgt]
+
 ## 3 mei 2023
 
 Naar de makerspace gegaan om met Tom te praten over mogelijkheden van casing maken, info gekregen over:
