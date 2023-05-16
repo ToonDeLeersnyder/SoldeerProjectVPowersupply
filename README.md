@@ -1,6 +1,13 @@
 # SoldeerProjectVPowersupply
 soldeerprojectje van Peter van PXL-Green&amp;Tech
 
+20 bordjes moesten gemaakt worden voor een regelbare power supply, gesoldeerd op prototype boards waardoor het veel tijd in beslag nam om te solderen.
+er waren 5 prototype boards geleverd, die dus verdeeld moesten worden over 20 kleinere boards.
+
+Af en toe naar de Makerspace moeten gaan voor de casing te bespreken met Tom van de Makerspace en appart nog naar diepenbeek gegaan om met peter alles te bespreken.
+
+In de map PeterCasing zit de casing die gebruikt is geweest.
+
 ## PROGRESS
 
 ## 5 mei 2023
@@ -40,15 +47,15 @@ Alle boards zijn ongeveer even breed.
 
 alles verder gesoldeerd bij ivan thuis (20 stuks) (heb zelf geen soldereermachine thuis)
 
-alles af geqsoldeerd en uiteindelijk ook getest of het zagen (4circuits van elkaar scheiden per breadboard) goed ging gaan. -> moeijlijk
+alles af gesoldeerd en uiteindelijk ook getest of het zagen (4circuits van elkaar scheiden per breadboard) goed ging gaan. -> moeilijk
 
 <img src="https://user-images.githubusercontent.com/79915408/216780288-c7c40652-e48b-4035-a2fc-22480e1c133a.jpg" width="200" height="300" /><img src="https://user-images.githubusercontent.com/79915408/216780296-0f805722-faea-425b-bf8f-66fcc0c1eb68.jpg" width="200" height="300" /><img src="https://user-images.githubusercontent.com/79915408/216780310-f8936921-a94b-4248-b1ad-62024e9495d9.jpg" width="200" height="300" />
 
 
 ## 13 jan 2023
-Naar ivan gereden om te beginnen solderen, op het begin ging het redelijk traag maar nadien had ik het onder de knie.
+Naar ivan gereden om te beginnen solderen want ik heb het materiaal niet, op het begin ging het redelijk traag maar nadien had ik het onder de knie.
 
-kutste van al is de plastiek rond de pootjes van de condensatoren uit doen.
+kutste van al is de plastiek rond de pootjes van de condensatoren uit doen :(.
 
 8/20 gesoldeerd
 
