@@ -1,0 +1,32 @@
+plaatje:
+7.3cm lengte
+2.7 cm breedte
+0.15 cm dik
+
+box: 
+3.9 cm hoog
+7.3cm lengte
+2.7 cm breedte
+
+
+vooraanzicht:
+hoogte 2.7+0.15+1.05 = 3.9 cm hoog
+
+//Voltage regulator steekt 2.7cm uit boven
+//plaatje 0.15 cm dik
+//1,05 cm langs onder
+
+
+
+Gat voor Pot bovenaanzicht -> 
+4.95 cm van onder tot pot meter
+1.06 cm van boven tot pot meter -> gat van 1.29 cm groot
+
+0.8 cm langs rechts
+0.72 cm langs links -> gat van 1.18 cm groot
+
+
+
+links 4 mm
+rechts 6 mm
+hoogte 1.8cm
