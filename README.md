@@ -7,7 +7,7 @@ soldeerprojectje van Peter van PXL-Green&amp;Tech
 
 Ik had thuis een casing gemaakt via de programmas die op 3 mei waren besproken.
 
-Ben naar de makerspace gegaan en heb een casing laten lasercutten en wacht op een antwoord of de case goed is of niet.
+Ben naar de makerspace gegaan en heb de casing laten lasercutten en wacht op een antwoord of het goed is of niet!
 
 <img src="https://github.com/ToonDeLeersnyder/SoldeerProjectVPowersupply/assets/79915408/4d2ec9d1-4548-4240-8990-91cb956710ad.jpg" width="200" height="300" />
 
