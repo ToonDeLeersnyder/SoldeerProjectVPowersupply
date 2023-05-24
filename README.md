@@ -10,6 +10,13 @@ In de map PeterCasing zit de casing die gebruikt is geweest.
 
 ## PROGRESS
 
+
+
+## THE END 14 mei 2023
+
+![image](https://github.com/ToonDeLeersnyder/SoldeerProjectVPowersupply/assets/79915408/928fe38b-d8c2-4471-80c6-e3e4ab30f401)
+
+
 ## 5 mei 2023
 
 Ik had thuis een casing gemaakt via de programmas die op 3 mei waren besproken.
@@ -19,8 +26,9 @@ Ben naar de makerspace gegaan en heb de casing laten lasercutten en wacht op een
 <img src="https://github.com/ToonDeLeersnyder/SoldeerProjectVPowersupply/assets/79915408/4d2ec9d1-4548-4240-8990-91cb956710ad.jpg" width="200" height="300" />
 
 
-
 [FOTO volgt]
+
+
 
 ## 3 mei 2023
 
